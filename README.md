@@ -1,3 +1,8 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# React Redux-Toolkit Countries Portfolio Project
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
+It's a site where you can learn information about diffetent countries.
+
+The used technologies: REACT, REDUX Toolkit, JS, CSS modules, HTML, axios
+
+Check it out: https://redux-toolkit-countries.vercel.app/
+
